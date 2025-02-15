@@ -19,6 +19,16 @@ View Site: [https://sawissac.github.io/catsfarm.github.io/](https://sawissac.git
 * collision
 * distance calculation
 
+# Dev Mode
+
+Open console and you can type these command.
+
+* meow.gs
+* meow.startCanvasAnimationFrame()
+
+* meow.cancelCanvasAnimationFrame()
+* meow.startDebugCansvasAnimationFrame()
+
 ![App Demo](./cat-demo.gif)
 
 Shout out to [Ekaterina Prozhirko](https://github.com/exsecantb/pixel-cat), I **appreciate** her art assets. No cap fr fr.
